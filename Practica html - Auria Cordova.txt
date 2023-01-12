@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Mi tiempo en Netflix <3 </title>
+    </head>
+    <body>
+        <h1>Mi tiempo en Netflix</h1>
+        <p>Me encanta ver series y peliculas en Netflix por horas, casi como un dia de maratón.</p>
+        <hr>
+        <p>Calificando peliculas vistas:</p>
+        <dl>
+            <dt>Me encantaron</dt>
+            <ul>
+            <li><dd>RRR</dd></li>
+            <li><dd>Kabhi Kushi Kabhi Gumn</dd></li>
+            <li><dd>The Hangover</dd></li>
+            <li><dd>¿Donde estan las rubias?</dd></li>
+            <li><dd>Mi primer amor de verdad</dd></li>
+            </ul>
+            <dt>Me faltan por ver</dt>
+            <ol>
+                <li><dd>Norbit</dd></li>
+                <li><dd>Deadpool</dd></li>
+                <li><dd>Locos de Amor</dd></li>
+                <li><dd>No me digas Solterona</dd></li>
+            </ol>
+        </dl>
+        <hr>
+        <img src="netflixclase3.png" height="300" width="600">
+        <hr>
+        <forms>
+            <p>
+                <label> Usuario: <input type="text" name="usuario"></label>
+            </p>
+            <p>
+                <label> Contraseña: <input type="password" name="password"></label>
+            </p>
+            <p>
+                <input type="submit" value="Enviar datos">
+            </p>
+        </forms>
+    </body>
+</html>
